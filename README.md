@@ -8,8 +8,9 @@ This repository contains scripts I use to setup my stream assets in a `kitty` te
 ## Dependencies
 Core:
 - `kitty` terminal configured with:
-  - `kiity.conf` here
-Kremstream like:
+  - `kiity.conf` here 
+
+Kremstream:
 - `asciiquarium`
 - `twitch-tui`
 - `Terminal Music Controller`
