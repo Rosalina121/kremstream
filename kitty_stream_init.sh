@@ -14,7 +14,7 @@ kitten @ launch --location=vsplit --cwd /home/rosalina /usr/bin/zsh -c "twt"
 
 # [1|2]
 # [ |3]
-kitten @ launch --location=hsplit --cwd /home/rosalina /usr/bin/zsh -c "cmatrix"
+kitten @ launch --location=hsplit --cwd /home/rosalina /usr/bin/zsh
 
 # [1|2]
 # [4|3]
