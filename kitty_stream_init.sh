@@ -14,7 +14,7 @@ kitten @ launch --location=vsplit --cwd /home/rosalina /usr/bin/zsh -c "twt"
 
 # [1|2]
 # [ |3]
-kitten @ launch --location=hsplit --cwd /home/rosalina /usr/bin/zsh
+kitten @ launch --location=hsplit --cwd /home/rosalina /usr/bin/zsh -c "chafa -f symbols /home/rosalina/VTube/Stream\ Assets\ 2024/blahaj-blåhaj.gif --relative true"
 
 # [1|2]
 # [4|3]

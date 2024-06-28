@@ -14,10 +14,12 @@ Kremstream:
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
   - Follow repo instructions or find it in your package manager
 - [twitch-tui](https://github.com/Xithrius/twitch-tui)
-  - Configured to your liking. Kitty supports images, so I recommend enabling emotes.
+  - Configured to your liking. Kitty supports images, so I recommend enabling emotes
 - [Terminal Music Controller](https://git.gay/rosalina/Terminal-Music-Controller)
 - [cava](https://github.com/karlstav/cava)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [chafa](https://hpjansson.org/chafa/)
+  - Used to play a gif of Blahaj in `symbols` format
 
 ## Usage
 Basic:
